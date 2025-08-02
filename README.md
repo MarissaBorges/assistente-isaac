@@ -66,7 +66,7 @@ Siga os passos abaixo para configurar e executar o projeto na sua máquina.
 - Python 3.9 ou superior.
 - [Git](https://git-scm.com/) instalado.
 - Uma chave de API da [OpenAI](https://platform.openai.com/api-keys).
-- `ffmpeg` instalado (necessário para o Whisper). Você pode instalar via `sudo apt update && sudo apt install ffmpeg` (Linux) ou seguir as orientações do [link tutorial](https://www.tolentino.pro.br/post/ffmpeg/) (Windows).
+- `ffmpeg` instalado (necessário para o Whisper). Você pode instalar via `sudo apt update && sudo apt install ffmpeg` (Linux) ou siga as orientações do [link tutorial](https://www.tolentino.pro.br/post/ffmpeg/) (Windows).
 
 ### 1. Clone o Repositório
 
@@ -197,6 +197,8 @@ Usuário: Qual foi o total de vendas do produto X?
 ---
 
 ## 📫 Como Contribuir
+
+Contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Qualquer contribuição que você fizer será muito apreciada.
 
 1.  Faça um **Fork** do projeto.
 2.  Crie uma nova branch para sua Feature (`git checkout -b feature/AmazingFeature`).
